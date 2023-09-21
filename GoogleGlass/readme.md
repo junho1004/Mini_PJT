@@ -9,7 +9,9 @@
 
 개발 전 준비사항
    - SSD1306 모듈설치
+
    $pip3 install adafruit-circuitpython-ssd1306
+   
    $git clone https://github.com/adafruit/Adafruit_CircuitPython_SSD1306
 
 
