@@ -103,16 +103,21 @@ Write 명령어
 
 ---
 [read & write]
+
 <img width="268" height="300" alt="01readwrite" src="https://github.com/junho1004/Mini_PJT/assets/109517019/314ecd72-f654-4d8a-b251-9a84ebc25ab8">
 
 [fullwrite]
+
 <img width="201" height="300" alt="02fullwrite" src="https://github.com/junho1004/Mini_PJT/assets/109517019/e3170ed8-deeb-4a8d-ad51-cc35c6642f25">
 
 [fullread]
+
 <img width="137" height="300" alt="03fullread" src="https://github.com/junho1004/Mini_PJT/assets/109517019/2d1e7dd9-a1be-454e-93a5-b151b133092b">
 
 [nand.txt]
+
 <img width="122" height="300" alt="04nand_txt" src="https://github.com/junho1004/Mini_PJT/assets/109517019/e8b89c82-0045-4dfb-b8c1-3333ddc4f5f5">
 
 [result.txt]
+
 <img width="280" height="300" alt="05result_txt" src="https://github.com/junho1004/Mini_PJT/assets/109517019/5368ba87-c5da-4435-a1a9-7a43e73c0a4c">
