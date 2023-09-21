@@ -53,5 +53,6 @@
 ![image](https://github.com/junho1004/Mini_PJT/assets/109517019/6658b21f-0a2a-465d-bfff-968cd4690216)
 
 
+![Animation](https://github.com/junho1004/Mini_PJT/assets/109517019/66a93782-20b3-4bf8-8556-f8de996c8107)
 
 
