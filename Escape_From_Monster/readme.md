@@ -22,7 +22,11 @@
     5. 벽 : 맵의 외각와 내부에 일부 존재하는 지형지물, 통과할 수 없음.
 진행 방법 :
 
-     프로그램 실행방법 : gcc -o monster monster.c -lncursesw -lpthread && ./monster
+     프로그램 실행방법
+     
+         $sudo apt install gcc
+         $sudo apt install libncursesw5-dev
+         $gcc -o monster monster.c -lncursesw -lpthread && ./monster
     
      플레이어를 제외한 모든 지형지물과 아이템, 몬스터의 위치는 랜덤.
      
