@@ -105,7 +105,7 @@ Write 명령어
 [read & write]
 
 
-<img width="268" height="300" alt="01readwrite" src="https://github.com/junho1004/Mini_PJT/assets/109517019/314ecd72-f654-4d8a-b251-9a84ebc25ab8">
+<img width="268" alt="01readwrite" src="https://github.com/junho1004/Mini_PJT/assets/109517019/314ecd72-f654-4d8a-b251-9a84ebc25ab8">
 
 
 [fullwrite]
@@ -129,4 +129,4 @@ Write 명령어
 [result.txt]
 
 
-<img width="280" height="300" alt="05result_txt" src="https://github.com/junho1004/Mini_PJT/assets/109517019/5368ba87-c5da-4435-a1a9-7a43e73c0a4c">
+<img width="280" alt="05result_txt" src="https://github.com/junho1004/Mini_PJT/assets/109517019/5368ba87-c5da-4435-a1a9-7a43e73c0a4c">
