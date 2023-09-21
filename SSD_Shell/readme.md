@@ -99,9 +99,12 @@ Write 명령어
 - 없는 명령어를 수행하는 경우 "INVALID COMMAND"를 출력
     - 어떠한 명령어를 입력하더라도 segment falut가 나오면 안된다.
 
+
 [ 실행 결과 ]
 
+
 ---
+
 [read & write]
 
 
