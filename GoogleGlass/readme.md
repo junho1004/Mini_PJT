@@ -5,9 +5,8 @@
 ![image](https://github.com/junho1004/Mini_PJT/assets/109517019/0d2f1748-91ed-4b78-b1bd-a0140120c07a)
 개발 전 준비사항
    - SSD1306 모듈설치
-   - ```$pip3 install adafruit-circuitpython-ssd1306
-   -
-   -   $git clone https://github.com/adafruit/Adafruit_CircuitPython_SSD1306```
+```$pip3 install adafruit-circuitpython-ssd1306
+$git clone https://github.com/adafruit/Adafruit_CircuitPython_SSD1306```
 
 화면구성
 ![image](https://github.com/junho1004/Mini_PJT/assets/109517019/7323090a-468d-4a66-8e4f-8cae32f817a7)
@@ -18,6 +17,7 @@
    - adafruit_ssd1306 - SPI통신을 위한 라이브러리
      
 실행방법
+
 ```$python3 googleGlass.py```
 
 ---
