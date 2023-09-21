@@ -9,9 +9,8 @@
 
 개발 전 준비사항
    - SSD1306 모듈설치
-```$pip3 install adafruit-circuitpython-ssd1306
-
- $git clone https://github.com/adafruit/Adafruit_CircuitPython_SSD1306```
+   $pip3 install adafruit-circuitpython-ssd1306
+   $git clone https://github.com/adafruit/Adafruit_CircuitPython_SSD1306
 
 
 
@@ -31,7 +30,7 @@
 
 실행방법
 
-```$python3 googleGlass.py```
+   $python3 googleGlass.py
 
 ---
 ![glass](https://github.com/junho1004/Mini_PJT/assets/109517019/087227c4-7703-41e3-9989-058adba45e2a)
