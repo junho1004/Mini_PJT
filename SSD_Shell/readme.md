@@ -15,7 +15,7 @@
 [ 프로젝트 구성 ] 
 
 1. 가상 SSD 제작
-    - HW 를 Software 로 구현한다
+    - HW 를 Software 로 구현한다.
 2. Test Shell Application 만들기
     - 테스트 프로그램
 3. Test Script 작성하기
@@ -41,7 +41,7 @@ SSD
 
 - Read 명령어와 Write 명령어만 존재
 - LBA 단위는 4 Byte
-- ( 실제로는 4KB 이지만 , 우리가 만들 최소 저장공간 사이즈는 4 Byte)
+- (실제로는 4KB 이지만 , 우리가 만들 최소 저장공간 사이즈는 4 Byte)
 - LBA 0 ~ 99 까지 100 칸을 저장할 수 있다
 - 총 400 Byte 를 저장 할 수 있는 가상 SSD 를 구현
 
