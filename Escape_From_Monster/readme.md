@@ -33,9 +33,9 @@
      게임 진행은 방향키로 진행됨.
 화면 표시:
 
-    1. 플레이어 : 🛴 (ny,nx)
+    1. 플레이어 : P (ny,nx)
     
-    2. 몬스터 : 🚑 (my,mx)
+    2. 몬스터 : M (my,mx)
     
     3. 가시 : ^
     
@@ -43,3 +43,15 @@
     
     5. 벽 : #
 ---
+
+![image](https://github.com/junho1004/Mini_PJT/assets/109517019/a6082891-cc32-4256-b175-3672b543d9a3)
+
+
+![image](https://github.com/junho1004/Mini_PJT/assets/109517019/76db734d-7280-4dba-a0f9-a4448488689a)
+
+
+![image](https://github.com/junho1004/Mini_PJT/assets/109517019/6658b21f-0a2a-465d-bfff-968cd4690216)
+
+
+
+
