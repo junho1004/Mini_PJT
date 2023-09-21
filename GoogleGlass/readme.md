@@ -15,4 +15,8 @@
    - Image, ImageDraw, ImageFont - 이미지 영역에 할당할 이미지를 객체로 만들어 화면에 맞도록 프로세싱
    - adafruit_ssd1306 - SPI통신을 위한 라이브러리
 6. 실행방법
-   python3 googleGlass.py
+
+   $python3 googleGlass.py
+
+
+![glass](https://github.com/junho1004/Mini_PJT/assets/109517019/087227c4-7703-41e3-9989-058adba45e2a)
