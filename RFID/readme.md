@@ -29,5 +29,4 @@ Raspberry Pi 4, 초음파 센서, 부저, RFID
 ---
 
 
-https://github.com/junho1004/Mini_PJT/assets/109517019/29e606c8-3686-4962-ad48-d0a403808687
-
+https://github.com/junho1004/Mini_PJT/assets/109517019/f178fad8-9745-4d04-9411-fd1e86e972a8
