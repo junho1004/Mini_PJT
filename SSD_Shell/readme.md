@@ -31,11 +31,9 @@
 
 SSD 
 
-- 저장할 수 있는 최소 공간의 사이즈는 4KB
-( 한 글자 = 약 1 Byte 으로 간주했을 때 , 4,096 글자 저장 가능 공간
+- 저장할 수 있는 최소 공간의 사이즈는 4KB(한 글자 = 약 1 Byte 으로 간주했을 때, 4,096 글자 저장 가능 공간)
 - 각 공간마다 LBA (Logical Block Address) 라는 주소를 가짐
-- SSD 는 OS 로부터 Read / Write / Unmap 등 다양한 명령어를
-전달받는다
+- SSD 는 OS 로부터 Read / Write / Unmap 등 다양한 명령어를 전달받는다.
 
 [ 가상 SSD 스펙 ]
 
