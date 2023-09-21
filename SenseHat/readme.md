@@ -5,3 +5,6 @@
 - Flash 클릭 시 모든 LED ON
 - Clear 클릭 시 모든 LED OFF
 ---
+
+https://github.com/junho1004/Mini_PJT/assets/109517019/216477cd-d18c-4b76-b4fb-a24a297840db
+
