@@ -24,9 +24,9 @@
 
      프로그램 실행방법
      
-         $sudo apt install gcc
-         $sudo apt install libncursesw5-dev
-         $gcc -o monster monster.c -lncursesw -lpthread && ./monster
+     $sudo apt install gcc
+     $sudo apt install libncursesw5-dev
+     $gcc -o monster monster.c -lncursesw -lpthread && ./monster
     
      플레이어를 제외한 모든 지형지물과 아이템, 몬스터의 위치는 랜덤.
      
