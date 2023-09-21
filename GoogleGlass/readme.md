@@ -1,4 +1,5 @@
 개발 목적 : Raspberry Pi zero 를 사용하여 Google Glass 만들어보기
+
 개발 환경
    - OS : Raspberry Pi OS
    - HW : Raspberry Pi zero, OLED Display SSD1306 - SPI통신 사용
