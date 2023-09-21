@@ -4,7 +4,7 @@
 
 [개발 환경 및 장비]
 
-Raspberry Pi 4, 초음파 센서, 부저, RFID
+Raspberry Pi 4, 초음파 센서, RGB LED, 부저, RFID
 
 [기능 상세]
 
@@ -15,12 +15,10 @@ Raspberry Pi 4, 초음파 센서, 부저, RFID
 
 2. 출입 인증 성공시
   - FND : 출입한 수 Counting
-  - Servo : 문 개폐
   - Buzzer : 출근 환영 음악
 
 3. 출입 실패시
   - Buzzer : 간단한 경고음
-  - 전동모터 잠시 ON
   - LED : 빨간불 잠시 ON
   - 3회 기회 실패 시 더 강한 Buzzer 울림
 
