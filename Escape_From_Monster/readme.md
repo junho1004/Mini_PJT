@@ -42,17 +42,16 @@
     4. 사과 : a
     
     5. 벽 : #
+
+실행결과
+
 ---
 
-![image](https://github.com/junho1004/Mini_PJT/assets/109517019/a6082891-cc32-4256-b175-3672b543d9a3)
-
-
-![image](https://github.com/junho1004/Mini_PJT/assets/109517019/76db734d-7280-4dba-a0f9-a4448488689a)
-
-
-![image](https://github.com/junho1004/Mini_PJT/assets/109517019/6658b21f-0a2a-465d-bfff-968cd4690216)
-
+[Game Over]
 
 ![Animation](https://github.com/junho1004/Mini_PJT/assets/109517019/66a93782-20b3-4bf8-8556-f8de996c8107)
 
 
+[Win]
+
+![Animation2](https://github.com/junho1004/Mini_PJT/assets/109517019/c4574d0d-6247-4160-94d8-e2150652d8e0)
